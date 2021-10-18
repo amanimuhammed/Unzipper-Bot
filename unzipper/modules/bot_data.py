@@ -64,11 +64,11 @@ class Buttons:
 
 class Messages:
     START_TEXT = """
-Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
+**Hi {}, I'm  Unzipper Bot** 😇!
 
-`I can extract archives like zip, rar, tar etc.`
+**I can extract archives like zip, rar, tar etc.**
 
-**Made with ❤️ by @NexaBotsUpdates**
+**🏷️ Maintained By: @Amani_m_h_d**
     """
 
     HELP_TXT = """
@@ -84,18 +84,24 @@ Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
     **2.** `Please don't send corrupted files! If you sent a one by a mistake just send` **/clean** `command!`
     
     **3.** `If your archive have 95 or more files in it then bot can't show all of extracted files to select from. So in that case if you can't see your file in the buttons just click on` "Upload All ♻️" `button. It'll send all extracted files to you!`
+
+**🏷️ Maintained By: @Amani_m_h_d**
     """
 
     ABOUT_TXT = """
-**About Nexa Unzipper Bot,**
+**Something about meh 🙂,**
 
-✘ **Language:** [Python](https://www.python.org/)
-✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)
-✘ **Source Code:** [Itz-fork/Unzipper-Bot](https://github.com/Itz-fork/Unzipper-Bot)
-✘ **Developer:** [Itz-fork](https://github.com/Itz-fork)
-
-
-**Made with ❤️ by @NexaBotsUpdates**
+➥**My Name :** `Unzipper Bot🤓`
+➥**Dev : [Amani Muhammed](https://t.me/Amani_m_h_d)**
+➥**Channel : [Botz Hub](https://t.me/My_Test_Botz)**
+➥**Credits :** `Everyone in this journey`
+➥**Language :** `Python3`
+➥**Library : [Pyrogram](https://docs.pyrogram.org/)**
+➥**Server : [Heroku](https://herokuapp.com/)**
+➥**Source Code : [👉 Click Here](http://t.me/nokkiirunnoippokittum)**
+➥**Follow on Insta: [Follow me](https://www.instagram.com/amani_m_h_d)**
+       
+         **📜Quote :** `ക്ഷമ വേണം സമയം എടുക്കും 🙃™️`
     """
 
     LOG_TXT = """
@@ -128,17 +134,12 @@ Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
  - `Please make sure archive isn't corrupted`
  - `Please make sure that you selected the right mode!`
  - `May be Your archive format isn't supported 😔`
-
-**Please report this at @Nexa_bots if you think this is a serious error**
     """
 
     ERROR_TXT = """
 **Error Happend 😕!**
 
 **ERROR:** {}
-
-
-**Please report this at @Nexa_bots if you think this is a serious error**
     """
 
     CANCELLED_TXT = """
